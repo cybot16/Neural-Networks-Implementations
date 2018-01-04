@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 28 17:02:11 2017
 
-@author: Cybot
+@author: Cybot & Pibotinus
 """
 
 import numpy as np
